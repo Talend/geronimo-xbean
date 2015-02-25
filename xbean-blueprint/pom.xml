@@ -26,18 +26,18 @@
     <parent>
         <artifactId>xbean</artifactId>
         <groupId>org.apache.xbean</groupId>
-        <version>4.2-SNAPSHOT</version>
+        <version>3.18</version>
     </parent>
 
     <artifactId>xbean-blueprint</artifactId>
     <packaging>bundle</packaging>
     <name>Apache XBean :: OSGI Blueprint Namespace Handler</name>
+    <version>3.18.1-tesb</version>
 
     <description>xbean-blueprint provides a schema-driven namespace handler for Apache Aries Blueprint</description>
 
     <properties>
         <pax.logging.version>1.5.0</pax.logging.version>
-
     </properties>
     <dependencies>
         <dependency>
